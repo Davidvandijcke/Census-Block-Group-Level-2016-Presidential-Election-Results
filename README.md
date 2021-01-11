@@ -1,5 +1,5 @@
 # Census-Block-Group-Level-2016-Presidential-Election-Results
-A dataset with estimates of Census Block Group level election results, and the underlying data and code that generated it. 
+A dataset ('votes2016_byCbg.csv.gz') with estimates of Census Block Group level election results, and the underlying data and code that generated it. 
 
 Derived from the [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I) compiled by the Voting and Election Science Team at the University of Florida and Wichita State University. Vote counts are allocated to census block groups based on the share of the precincts' areas that overlap with the given CBG. 
 
