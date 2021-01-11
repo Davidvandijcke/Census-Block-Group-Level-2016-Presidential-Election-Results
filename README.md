@@ -1,2 +1,17 @@
 # Census-Block-Group-Level-2016-Presidential-Election-Results
-A dataset with estimates of Census Block Group level election results
+A dataset with estimates of Census Block Group level election results, and the underlying data and code that generated it. 
+
+Derived from the [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I) compiled by the Voting and Election Science Team at the University of Florida and Wichita State University. Vote counts are allocated to census block groups based on the share of the precincts' areas that overlap with the given CBG. 
+
+Please cite: "Milosh, Maria, Marcus Painter, David Van Dijcke, and Austin L. Wright. "Unmasking Partisanship: How Polarization Influences Public Responses to Collective Risk." University of Chicago, Becker Friedman Institute for Economics Working Paper 2020-102 (2020)."
+
+
+| variable name     | description                                                        |
+|-------------------|--------------------------------------------------------------------|
+| poi_cbg           | Census Block Group ID. Make sure to pad it with zeros on the left! |
+| trump_share       | Share of Trump votes in total CBG population                       |
+| clinton_share     | Share of Clinton votes in total CBG population                     |
+| trump_share_votes | Share of Trump votes in total votes cast                           |
+| clinton_share     | Share of Clinton votes in total votes cast                         |
+| g16prertru        | Estimated votes cast for Trump in CBG                              |
+| g16predcli        | Estimated votes cast for Clinton in CBG                            |
