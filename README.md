@@ -6,12 +6,15 @@ Derived from the [dataset](https://dataverse.harvard.edu/dataset.xhtml?persisten
 Please cite: "Milosh, Maria, Marcus Painter, David Van Dijcke, and Austin L. Wright. "Unmasking Partisanship: How Polarization Influences Public Responses to Collective Risk." University of Chicago, Becker Friedman Institute for Economics Working Paper 2020-102 (2020)."
 
 
-| variable name     | description                                                        |
-|-------------------|--------------------------------------------------------------------|
-| poi_cbg           | Census Block Group ID. Make sure to pad it with zeros on the left! |
-| trump_share       | Share of Trump votes in total CBG population                       |
-| clinton_share     | Share of Clinton votes in total CBG population                     |
-| trump_share_votes | Share of Trump votes in total votes cast                           |
-| clinton_share     | Share of Clinton votes in total votes cast                         |
-| g16prertru        | Estimated votes cast for Trump in CBG                              |
-| g16predcli        | Estimated votes cast for Clinton in CBG                            |
+| variable name     | description                                                                 |
+|-------------------|--------------------------------------------------------------------         |
+| poi_cbg           | Census Block Group ID. Make sure to pad it with zeros on the left!          |
+| trump_share       | Share of Trump votes in total CBG population                                |
+| clinton_share     | Share of Clinton votes in total CBG population                              |
+| trump_share_votes | Share of Trump votes in total votes cast                                    |
+| clinton_share     | Share of Clinton votes in total votes cast                                  |
+| g16prertru        | Estimated votes cast for Trump in CBG                                       |
+| g16predcli        | Estimated votes cast for Clinton in CBG                                     |
+| trump_neighbor    | Total votes for Trump in neighboring CBGs / total votes in neighboring CBGS |
+| clinton_neighbor  | Same for Clinton votes                                                      |
+| trump_neighbor_avg| Average trump vote share in neighboring CBGs (and same for Clinton          |
