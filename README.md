@@ -3,7 +3,7 @@ A dataset ('votes2016_byCbg.csv.gz') with estimates of Census Block Group level 
 
 Derived from the [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I) compiled by the Voting and Election Science Team at the University of Florida and Wichita State University. Vote counts are allocated to census block groups based on the share of the precincts' areas that overlap with the given CBG. A folder with all CBG shapefiles can be downloaded [here](https://www.dropbox.com/sh/7e21bjgtt08ajw6/AABgbldYCfNUkBUKZMPj7lCfa?dl=0).
 
-Please cite: "Milosh, Maria, Marcus Painter, David Van Dijcke, and Austin L. Wright. "Unmasking Partisanship: How Polarization Influences Public Responses to Collective Risk." University of Chicago, Becker Friedman Institute for Economics Working Paper 2020-102 (2020)."
+Please cite: "Van Dijcke, David and Wright, Austin L., Profiling Insurrection: Characterizing Collective Action Using Mobile Device Data (January 31, 2021). Available at SSRN: https://ssrn.com/abstract=3776854"
 
 
 | variable name     | description                                                                 |
