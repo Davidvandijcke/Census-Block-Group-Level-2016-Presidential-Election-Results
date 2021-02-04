@@ -11,15 +11,15 @@ Voting and Election Science Team. 2018. “2016 Precinct-Level Election Results.
 URL: https://doi.org/10.7910/DVN/NH5S2I
 
 
-| variable name     | description                                                                 |
-|-------------------|--------------------------------------------------------------------         |
-| poi_cbg           | Census Block Group ID. Make sure to pad it with zeros on the left!          |
-| trump_share       | Share of Trump votes in total CBG population                                |
-| clinton_share     | Share of Clinton votes in total CBG population                              |
-| trump_share_votes | Share of Trump votes in total votes cast                                    |
-| clinton_share     | Share of Clinton votes in total votes cast                                  |
-| g16prertru        | Estimated votes cast for Trump in CBG                                       |
-| g16predcli        | Estimated votes cast for Clinton in CBG                                     |
-| trump_neighbor    | Total votes for Trump in neighboring CBGs / total votes in neighboring CBGS |
-| clinton_neighbor  | Same for Clinton votes                                                      |
-| trump_neighbor_avg| Average trump vote share in neighboring CBGs (and same for Clinton          |
+| variable name       | description                                                                 |
+|---------------------|--------------------------------------------------------------------         |
+| `poi_cbg`           | Census Block Group ID. Make sure to pad it with zeros on the left!          |
+| `trump_share`       | Share of Trump votes in total CBG population                                |
+| `clinton_share`     | Share of Clinton votes in total CBG population                              |
+| `trump_share_votes` | Share of Trump votes in total votes cast                                    |
+| `clinton_share`     | Share of Clinton votes in total votes cast                                  |
+| `g16prertru`        | Estimated votes cast for Trump in CBG                                       |
+| `g16predcli`        | Estimated votes cast for Clinton in CBG                                     |
+| `trump_neighbor`    | Total votes for Trump in neighboring CBGs / total votes in neighboring CBGS |
+| `clinton_neighbor`  | Same for Clinton votes                                                      |
+| `trump_neighbor_avg`| Average trump vote share in neighboring CBGs (and same for Clinton          |
