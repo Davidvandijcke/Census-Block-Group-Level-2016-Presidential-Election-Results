@@ -3,6 +3,8 @@ A dataset ('votes2016_byCbg.csv.gz') with estimates of Census Block Group level 
 
 Derived from the [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I) compiled by the Voting and Election Science Team at the University of Florida and Wichita State University. Vote counts are allocated to census block groups based on the share of the precincts' areas that overlap with the given CBG. A folder with all CBG shapefiles can be downloaded [here](https://www.dropbox.com/sh/7e21bjgtt08ajw6/AABgbldYCfNUkBUKZMPj7lCfa?dl=0). For a description of the matching algorithm, see Van Dijcke and Wright (2021). 
 
+Download the raw data that goes in the `/data/` folder [here](https://www.dropbox.com/sh/nyuiwr1mbbprjx4/AABA051-RLh4rTCMzTfrf7Y-a?dl=0).
+
 Please cite: 
 Van Dijcke, David and Wright, Austin L., Profiling Insurrection: Characterizing Collective Action Using Mobile Device Data (January 31, 2021). Available at SSRN: https://ssrn.com/abstract=3776854
 Voting and Election Science Team. 2018. “2016 Precinct-Level Election Results.”.
