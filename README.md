@@ -22,4 +22,4 @@ URL: https://doi.org/10.7910/DVN/NH5S2I
 | `g16predcli`        | Estimated votes cast for Clinton in CBG                                     |
 | `trump_neighbor`    | Total votes for Trump in neighboring CBGs / total votes in neighboring CBGS |
 | `clinton_neighbor`  | Same for Clinton votes                                                      |
-| `trump_neighbor_avg`| Average trump vote share in neighboring CBGs (and same for Clinton          |
+| `trump_neighbor_avg`| Average trump vote share in neighboring CBGs (and same for Clinton)         |
