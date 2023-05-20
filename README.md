@@ -5,7 +5,7 @@ Derived from the [dataset](https://dataverse.harvard.edu/dataset.xhtml?persisten
 
 Please cite: 
 
-Van Dijcke, David and Wright, Austin L., Profiling Insurrection: Characterizing Collective Action Using Mobile Device Data (January 31, 2021). Available at SSRN: https://ssrn.com/abstract=3776854
+Sonin, Konstantin, Van Dijcke, David and Wright, Austin L. (2023). Profiling Insurrection: Who Went to Washington, DC on January 6, 2021?. Available at SSRN: https://ssrn.com/abstract=3776854
 
 Voting and Election Science Team. 2018. “2016 Precinct-Level Election Results.”.
 URL: https://doi.org/10.7910/DVN/NH5S2I
